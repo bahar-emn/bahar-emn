@@ -1,4 +1,4 @@
-## Hellooooo friend ;)
+## Hellooooo friend 👋
 
 - 🔭 I’m currently working on a secret project :D
 - 🌱 I’m currently learning backend development in python
