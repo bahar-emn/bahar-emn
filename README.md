@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**bahar-emn/bahar-emn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hellooooo friend ;)
 
 - 🔭 I’m currently working on a secret project :D
 - 🌱 I’m currently learning backend development in python
