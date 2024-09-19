@@ -5,5 +5,4 @@
 - 📄 Know about my work/volunteering experiences 
 - 📫 How to reach me: baharbhremine@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i think i am funny
-
+- ⚡ Fun fact: I love drinking tea
